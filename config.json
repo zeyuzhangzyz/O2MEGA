@@ -1,0 +1,18 @@
+{
+    "yolov5_script_path": "D:/code/PycharmProjects/yolov5/detect.py",
+    "weights_dir": "D:/code/PycharmProjects/yolov5/",
+    "yolov5_project_dir": "D:/code/PycharmProjects/yolov5/runs/detect/ORGCA/",
+    "yolov5_base_weight_dir": "D:/code/PycharmProjects/yolov5/yolov5s.pt",
+    "yolov5_ORGCA_project_dir": "D:/code/PycharmProjects/yolov5/runs/detect/ORGCA/",
+    "faster_rcnn_script_path": "D:/code/PycharmProjects/deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn/predict.py",
+    "faster_rcnn_project_dir": "D:/code/PycharmProjects/deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn/runs/ORGCA/",
+    "confidence_threshold": "0.25",
+    "area_threshold": "0",
+    "car_label": "2",
+    "people_label": "0",
+    "QP_list": [24, 26, 28, 30, 32, 34, 36, 38, 40],
+    "res_list":[1,0.8,0.7,0.5],
+    "source_dir": "E:/dataset/dash_video/segment",
+    "experiment_source_dir": "E:/dataset/dash_video/timevary",
+    "experiment_data_des_path": "E:/code/python_projects/O2MEGA/data"
+}
